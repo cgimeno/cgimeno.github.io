@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://carlosgimeno.me/post/introduction-to-openstack/</loc>
+    <lastmod>2017-11-19T22:22:47+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://carlosgimeno.me/post/uma/</loc>
     <lastmod>2017-11-14T15:24:04+01:00</lastmod>
   </url>
@@ -29,14 +34,20 @@
   </url>
   
   <url>
+    <loc>https://carlosgimeno.me/tags/meetups/</loc>
+    <lastmod>2017-11-19T22:22:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://carlosgimeno.me/tags/openstack/</loc>
-    <lastmod>2017-11-14T15:24:04+01:00</lastmod>
+    <lastmod>2017-11-19T22:22:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://carlosgimeno.me/post/</loc>
-    <lastmod>2017-11-14T15:24:04+01:00</lastmod>
+    <lastmod>2017-11-19T22:22:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +64,7 @@
   
   <url>
     <loc>https://carlosgimeno.me/</loc>
-    <lastmod>2017-11-14T15:24:04+01:00</lastmod>
+    <lastmod>2017-11-19T22:22:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
