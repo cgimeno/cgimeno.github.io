@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 19 Nov 2017 22:22:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2017 22:00:02 +0100</lastBuildDate>
     
 	<atom:link href="https://carlosgimeno.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Next meetup on Campus Madrid: Proxmox VE</title>
+      <link>https://carlosgimeno.me/post/meetup-proxmox/</link>
+      <pubDate>Sun, 26 Nov 2017 22:00:02 +0100</pubDate>
+      
+      <guid>https://carlosgimeno.me/post/meetup-proxmox/</guid>
+      <description>Hello everyone
+Next friday, 1st of December I&amp;rsquo;ll be at Campus Madrid giving a brief introduction to Proxmox VE and how to use it.
+Proxmox is an open-source server virtualization enviroment. It allows the deployment and management of containers (LXC) and virtual machines KVM. Proxmox includes a web console some console and command-line tools and a REST API for third party tools.
+If you want to come, you can sign-up here</description>
+    </item>
     
     <item>
       <title>Mad4Hacking meetup: Introduction to Openstack</title>
