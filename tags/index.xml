@@ -1,52 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cgimeno</title>
     <link>https://carlosgimeno.me/tags/</link>
     <description>Recent content in Tags on cgimeno</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Nov 2017 15:24:04 +0100</lastBuildDate>
-    
-	<atom:link href="https://carlosgimeno.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Iaas</title>
-      <link>https://carlosgimeno.me/tags/iaas/</link>
-      <pubDate>Tue, 14 Nov 2017 15:24:04 +0100</pubDate>
-      
-      <guid>https://carlosgimeno.me/tags/iaas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meetups</title>
-      <link>https://carlosgimeno.me/tags/meetups/</link>
-      <pubDate>Sun, 26 Nov 2017 22:00:02 +0100</pubDate>
-      
-      <guid>https://carlosgimeno.me/tags/meetups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Openstack</title>
-      <link>https://carlosgimeno.me/tags/openstack/</link>
-      <pubDate>Sun, 19 Nov 2017 22:22:47 +0100</pubDate>
-      
-      <guid>https://carlosgimeno.me/tags/openstack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Virtualization</title>
-      <link>https://carlosgimeno.me/tags/virtualization/</link>
-      <pubDate>Sun, 26 Nov 2017 22:00:02 +0100</pubDate>
-      
-      <guid>https://carlosgimeno.me/tags/virtualization/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://carlosgimeno.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
