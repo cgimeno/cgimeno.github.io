@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/cgimeno
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://carlosgimeno.me
+  * I am cgimeno (https://keybase.io/cgimeno) on keybase.
+  * I have a public key with fingerprint 2636 AA6A 8B66 6B1B 8762  A59B 09CE F923 DBAD EF39
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204b8a87a0a20e843797af8593605ad2ca625d1323873c250a883869e7e4c051c80a",
+      "fingerprint": "2636aa6a8b666b1b8762a59b09cef923dbadef39",
+      "host": "keybase.io",
+      "key_id": "09cef923dbadef39",
+      "kid": "0101ee0e1739592a9be1530fa8a950668759121a68fee1c65a8ae41f77586160e9520a",
+      "uid": "178641ad99a06a636ea6838bfd528619",
+      "username": "cgimeno"
+    },
+    "service": {
+      "hostname": "carlosgimeno.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511310007,
+  "expire_in": 157680000,
+  "prev": "925c58f6ec6442f63229da01a382f8f793f03dfeebd49e109c51ddd4e59b9b2d",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNwAnicZVJrTBVHGOWphQSpIFZArC4QiALdnX3NXoUEexUTLClpi1rU29ndWdiI
+917uA6GCqE3V8lLUpKWAojxNaypQtVpLgRLQQBWxMUipqQ+URFsiLUVSLJ2L5Vd/
+Teb7zjnf+c5Ml5+nm6+7z/Wp8J/PjknuvR2fO93eX9R5cTclW9Q8yrCb2oFnD5yl
+YrvDtENXKQNFM4DmZIigiGgEaAw5VpREpEFeYgWaRypQkAB4lWEBC0VWATyNIGSh
+IGERcwrNMwqkERVDabo5A9usNt3sILJAYAWEBARlQRBkRoaiABAvybSkYE0CrCoj
+FWusRIiZFruLQczJyI7jdAupkYvppb3/4+d80wzGNGZEVuIlgCQZMzxLawgiiacF
+AYq8xAAGCVDDmFEEnjQwx2iiyEOBEWgs8WDWt3NWjhGhwDFIlSREC4iYx4TJQllT
+eUDwrrlOO7aZ0U5M0EqGvhObLVRBDEWKObqCXbm6FpkDIFuWxf4SFUcqMZTVZnFY
+FEsWaWY6HFa7wUV25Fld6F1YNv2nY5J1s0qSJIwcbLPrFjNlYAhSceguYYZnGJah
+aVqMoXCuVbdhk+5C8KIASZV2zcE5RFICvMJDTcCKwHFAE1gAJBXRDGIh0KAmSqxG
+syqJRlY5CTMkZp5RVZXD5I0kGaiUa7NssqKBBcQnyiCadj3DjBxOG6YKOju2erm5
++7rN8/ZwfTE3X59X5z5eRJX/tP+D1X/FNgY5b8HnK2t6SpvWPO5tS/5xy7I7IGVz
++sLUHkeU174Aj+HjaQ1tH278uMHHMZMU+H3qozcfHr3MhHmfPrCnrFKJL39jNKCp
+aH7ngsLk+UO1224UU8c3z5s8UD7+TmX0yrj4kIGu1i/+aeyvtj3wWBFXvTiJidbv
+vgj41rzhKsg+QRUGiTe5gneNtU31QYPe32i3O9MnBvScPwKLDo9E5j/VRoyjB9ve
+K6+wf7L4Ttf6jUuWL03MH3NuGzW0bo2mFrAlPk0D+nnjqoiKwMq1m4rLFo4n0X59
+xv6pu1XBF7oe9+XXZyV+mWn57IP+8fWlhdbWyBv7PNLGXil8kuDkvr48FGSpqvv1
+EbWuzJgwPfn004ni5yi3rrnxZO2h7VUgO/5qyvCxa2v95faM5pnBiKPP1nhJ7c9O
+379W082djT2SUnI7oac+tCPonntco6bsGgz9ZerFk5GAS2mTpfeW/rbu0qKw5Ivx
+fhUyvez1lvYQtQK1Rnkd/Kkk6QrPD0f2LJ+I+Uo6cr5mv5x6pfrhfdOMcXAyZaAn
+ONuzaFXUMWg8Ffl37qFzHg2n3koHNw/X+ZfUX9+/t8Xz1kmH/cIZI2hKHKpKcLbD
+sMGIFdO5f+4tqApvPhHe/V3LawoV2sh3n0vZvqdPxzCkK/aHxNVL6n+vqEze9PaZ
+2Ine2O6y4Lz4rPEtH/0LMEW/Hw==
+=N7jd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cgimeno
+
+==================================================================
+
