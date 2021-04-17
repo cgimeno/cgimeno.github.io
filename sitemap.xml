@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://carlosgimeno.me/</loc>
+    <lastmod>2021-04-16T22:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosgimeno.me/posts/hello-world/</loc>
+    <lastmod>2021-04-16T22:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carlosgimeno.me/posts/</loc>
+    <lastmod>2021-04-16T22:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://carlosgimeno.me/about/</loc>
   </url>
   
@@ -12,10 +27,6 @@
   
   <url>
     <loc>https://carlosgimeno.me/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://carlosgimeno.me/</loc>
   </url>
   
   <url>
